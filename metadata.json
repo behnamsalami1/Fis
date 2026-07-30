@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix سیستم معاملاتی fis",
+  "description": "سیستم مدیریت پروژه، کدنویسی دستورالعمل‌های پایتون، تحلیل صورتهای مالی و خروجی PDF محاسبات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
